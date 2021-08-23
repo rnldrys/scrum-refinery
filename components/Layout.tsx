@@ -91,7 +91,7 @@ export default function Layout({ children }: { children: ReactNode}){
                                 <Typography variant="h6">Scrum Refinery</Typography>
                             </Link_>
                         </Link>
-                        <Link_ href={'https://github.com/rnldrys'} target="_blank">
+                        <Link_ href={'https://github.com/rnldrys/scrum-refinery'} target="_blank">
                             <IconButton
                                 aria-label="github"
                                 edge="end"
